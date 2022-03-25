@@ -1,0 +1,5 @@
+name: TattyBoardPearl
+version: '1.0-SNAPSHOT'
+main: org.glockinmybape.tattyboardpearl.TattyBoardPearl
+authors: [ glockinmybape ]
+description: TattyBoardPearl

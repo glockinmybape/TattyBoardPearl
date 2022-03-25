@@ -1,0 +1,5 @@
+name: TattyBoardPearl
+version: '${project.version}'
+main: org.glockinmybape.tattyboardpearl.TattyBoardPearl
+authors: [ glockinmybape ]
+description: TattyBoardPearl
